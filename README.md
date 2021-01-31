@@ -1,4 +1,6 @@
-### Hi there 👋
+# Eloquia Technologies
+
+Eloquia Technologies is commited to incubating applications and skills to improve the status of the Earth through technology. By continuing to explore the problems and needs we face, we at Eloquia believe that we can make the world a better place for all of us.
 
 <!--
 **eloquia/eloquia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
